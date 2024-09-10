@@ -25,3 +25,7 @@ terraform init
 terraform plan
 terraform apply
 ```
+
+# TODO
+
+1. Delete .tfstate and move it to safe place
